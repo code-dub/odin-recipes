@@ -1,0 +1,41 @@
+body{
+    background-color: peachpuff;
+
+}
+
+
+
+h1 {
+    color: rgb(78, 45, 4);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    
+}
+
+
+.listo{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkgreen;
+    text-align: center;
+}
+
+h2{
+    background-color: burlywood;
+    color: chocolate;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+img {
+    display: block;
+    width: 250px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    text-align: center;
+}
